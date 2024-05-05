@@ -32,13 +32,13 @@ To run **Dentelo** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/dentelo.git
+sudo git clone https://github.com/ABDUL-REHMAN345/Dentelo-.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/dentelo.git
+git clone https://github.com/ABDUL-REHMAN345/Dentelo-.git
 ```
 
 ### Contact
